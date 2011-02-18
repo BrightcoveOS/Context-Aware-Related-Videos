@@ -6,12 +6,12 @@ This project provides a list of related videos based on page content.
 Parameters
 ==========
 
- * __content__ - The DOM element to parse for relevant words (Optional)
- * __token__ - Your Brightcove Read API token
- * __terms__ - The number of words to search on (Default: 5)
- * __videos__ - The number of related videos to return (Default: 5)
  * __callback__ - A function to run when the videos have been retrieved
+ * __content__ - The DOM element to parse for relevant words (Optional)
  * __tags__ - An array of tags to parse (e.g. `["h1", "h2", "p"]`) (Optional)
+ * __terms__ - The number of words to search on (Default: 5)
+ * __token__ - Your Brightcove Read API token
+ * __videos__ - The number of related videos to return (Default: 5)
 
 Usage
 =====
