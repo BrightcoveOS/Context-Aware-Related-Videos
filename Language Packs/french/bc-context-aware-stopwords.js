@@ -1,0 +1,1 @@
+var BCContextAware_StopWords = ["le", "la", "les", "un", "une", "des", "du", "de la", "de l'", "mais", "ou", "et", "or", "ni", "car", "à", "a"];
