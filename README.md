@@ -11,6 +11,7 @@ Parameters
  * __terms__ - The number of words to search on (Default: 5)
  * __videos__ - The number of related videos to return (Default: 5)
  * __callback__ - A function to run when the videos have been retrieved
+ * __tags__ - An array of tags to parse (e.g. `["h1", "h2", "p"]`) (Optional)
 
 Usage
 =====
