@@ -27,8 +27,8 @@ Parameters
  * __terms__ - The number of words to search on (Default: 5)
  * __token__ - Your Brightcove Read API token
  * __videos__ - The number of related videos to return (Default: 5)
- * __videoFields__ - The fields to retrieve for each video (Default: `id,name,shortDescription,thumbnailURL`)
- * __videoSort__ - The sort to apply to related videos (Default: `PUBLISH_DATE:DESC`)
+ * __videoFields__ - The fields to retrieve for each video (Default: "id,name,shortDescription,thumbnailURL")
+ * __videoSort__ - The sort to apply to related videos (Default: "PUBLISH_DATE:DESC")
 
 Usage
 =====
