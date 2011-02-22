@@ -15,8 +15,8 @@ In order to decrease the number of file transfers, you may wish to simply
 copy and paste the contents of the language pack after the end of the
 core code.
 
-If you add any words to the lists, please consider patching the language
-pack so others may benefit.
+If you add any words to the lists, __please consider patching the language
+pack so others may benefit__.
 
 Parameters
 ==========
@@ -41,6 +41,7 @@ Usage
 	
 	<!-- Instantiate and use the plug-in -->
 	<script type="text/javascript">
+	
 		// You should wait until the window or DOM loads before calling this function
 		// Putting the initialization call at the end of your body will also work
 		window.onload = function() {
@@ -62,4 +63,10 @@ Usage
 				}
 			});
 		};
+		
 	</script>
+	
+	<!-- Dummy content -->
+	<div id="myContent">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</div>
