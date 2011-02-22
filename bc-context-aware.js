@@ -1,5 +1,5 @@
 /**
- * Brightcove Context Aware Related Videos 1.0.2 (18 FEBRUARY 2011)
+ * Brightcove Context Aware Related Videos 1.0.2 (22 FEBRUARY 2011)
  *
  * REFERENCES:
  *	 Website: http://opensource.brightcove.com
