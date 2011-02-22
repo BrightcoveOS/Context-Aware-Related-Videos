@@ -1,0 +1,1 @@
+var BCContextAware_StopWords = ["a", "az", "be", "de", "egy", "el", "fel", "hogy", "hát", "ide oda", "igen", "ki", "le", "lesz", "meg", "mi", "mint", "nem", "rá", "szét", "te", "ti", "vagy", "van", "vissza", "volt csak", "át", "én", "és", "õ", "õk", "ön", "össze"];
